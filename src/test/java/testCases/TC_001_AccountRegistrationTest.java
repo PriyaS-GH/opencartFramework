@@ -9,6 +9,9 @@ import testBase.BaseClass;
 
 public class TC_001_AccountRegistrationTest extends BaseClass {
 	
+	
+	//Registration Page...
+	
 	@Test(groups= {"Regression","Master"}) //Step8 groups added
 	public void test_account_Registration()
 	{
